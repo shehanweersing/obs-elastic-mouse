@@ -32,7 +32,7 @@ I decided to write my own script using **Python** to solve this. Instead of raw 
 ### Steps
 1.  **Clone this repo** (or download the ZIP):
     ```bash
-    git clone [https://github.com/yourusername/obs-elastic-mouse.git](https://github.com/yourusername/obs-elastic-mouse.git)
+    git clone https://github.com/shehanweersing/obs-elastic-mouse.git
     ```
 2.  **Link Python to OBS**:
     * Open OBS -> `Tools` -> `Scripts`.
