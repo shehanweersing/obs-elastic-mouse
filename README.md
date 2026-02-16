@@ -1,4 +1,4 @@
-#  SmoothStream: Elastic Mouse Tracker for OBS
+#  SmoothStream: Elastic Mouse Tracker for OBS (tracking image(window)according to mouse point)
 
 > A lightweight, Python-based mouse tracker for OBS Studio that actually works. 
 > Features cinematic "elastic" movement using Linear Interpolation (Lerp).
