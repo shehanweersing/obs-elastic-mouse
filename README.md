@@ -1,4 +1,5 @@
-#  SmoothStream: Elastic Mouse Tracker for OBS (tracking image(window)according to mouse point)
+#  SmoothStream: Elastic Mouse Tracker for OBS 
+##[Connect with me on LinkedIn](https://www.linkedin.com/in/shehan-n-weerasinghe-26307a399/)
 
 ##  Want Zoom & Follow?
 If you want the screen to Zoom and Track the mouse point instead of just an overlay, 
