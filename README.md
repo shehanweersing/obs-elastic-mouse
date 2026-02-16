@@ -1,5 +1,9 @@
 #  SmoothStream: Elastic Mouse Tracker for OBS (tracking image(window)according to mouse point)
 
+##  Want Zoom & Follow?
+If you want the screen to Zoom and Track the mouse point instead of just an overlay, 
+I created another repo for that! Check it out here: **[zoom-track-obs](https://github.com/shehanweersing/zoom-track-obs)**
+
 > A lightweight, Python-based mouse tracker for OBS Studio that actually works. 
 > Features cinematic "elastic" movement using Linear Interpolation (Lerp).
 
